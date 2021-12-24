@@ -1,4 +1,4 @@
-# lunk-game
+# Lunk-game
 
 Authors: Oliver Walker, Sean Nishi, Myles Rush, Justin Walsh
 
