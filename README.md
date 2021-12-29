@@ -1,5 +1,7 @@
 # Lunk-game
 
+TEST
+
 Authors: Oliver Walker, Sean Nishi, Myles Rush, Justin Walsh
 
 We do not own anything! Please don't sue us.
