@@ -1,6 +1,6 @@
 # Lunk-game
 
-TEST
+TEST 2
 
 Authors: Oliver Walker, Sean Nishi, Myles Rush, Justin Walsh
 
